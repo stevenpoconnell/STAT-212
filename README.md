@@ -1,1 +1,2 @@
 # STAT-212
+A lot of the R code from homework assignments from my STAT 212 class. There are very few comments in the code itself, but the associated pdfs have explanations, comments about the code, and all of the program's output. This repository is staying up to serve as a personal backup and place for me to showcase my programming experience. This repository is not intended to be used by other students, and doing so would be a violation of the Aggie Honor Code.
